@@ -6,7 +6,7 @@ git push;
 if [ $HOSTNAME = TheBar ]; then
 	printf "%s\n" "" "On laptop" "Pulling from repo..." ""
 	branch_name=$(git rev-parse --abbrev-ref HEAD)
-	cd /c/Users/Max/Documents/School/SeniorProject/repo/
+	cd /c/Users/Max/Documents/School/SeniorProject/project_repo/
 	git checkout $branch_name
 	git pull origin $branch_name
 else
