@@ -1,10 +1,11 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="11008008">
+<Library LVVersion="15008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
 	<Property Name="NI.Lib.DefaultMenu" Type="Str">dir.mnu</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This driver will configure and take measurements from the Agilent 546XX Series.  For additional information about this driver, please refer to the Agilent 546XX Series Readme.html</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)]!!!*Q(C=\&gt;3^=&gt;N!%)&lt;B4RY(4N'""SVM#WS",7Q,4"7CB5W&gt;%7Z!*FL9&amp;NA#1[41C_.+ADQ;-&lt;&amp;GL"E"7PZ]O.N\#%#1WP:$_K\FVD;`OX&amp;]W&gt;;]?7?@HT`06=PG@8G:0\`O]T*BU_P6T,`[0]V\9`U&lt;@LW\@2X`/P[ZD^`9'(.`=^!(&lt;^*&gt;EV**"?75N6_X*(G3*XG3*XG3"XG1"XG1"XG1/\G4/\G4/\G4'\G2'\G2'\G2NZV=Z#)8/7=F74R:+'G;.%A'1V(SEHA34_**0(R6YEE]C3@R*"['+0%EHM34?")0UZ2Y%E`C34S*BV:.EGUHRZ.Y;+`!%XA#4_!*0#SJQ"-!AM7#RE%4'!I/"B]#4_!*0(R5Y!E]A3@Q""Y/+`!%HM!4?!)05^J:C;::&gt;X)]N*(D=4S/R`%Y(FL,]4A?R_.Y(!`,S@%Y(A@B,/AUBS"HED0!_?*Y(!^P=DS/R`%Y(M@$I8;&amp;P*W:6&lt;0OZ(A-D_%R0)&lt;(]."#BM@Q'"\$9XBI+].D?!S0Y4%],#8$9XA-DQ%R&amp;G6Z'=W-C=9A)T!]`,7\R&gt;J6CC;RNN?`ZP6'6&gt;W!KBN,&gt;=/I&lt;A46"6:&gt;/.5&amp;5:VIV1F5H2D6$V&lt;^%"61N&lt;#KI7KA,LS?K9E;K9%[5(NK2`65NU\^RQ-PFYP/Z\/G;&gt;)YDBK'19@$1@P^8LP&gt;4HX@K_O[Z[@64`&lt;L&gt;P@U8,LH]X1[(=@_V`%U`?H'94T_@DA&gt;V`QD[`J=_B_?D@KG:@/9ZRQ^!GK?T=1!!!!!</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)]!!!*Q(C=\&gt;3^=&gt;N!%)&lt;B4RY(4N'""SVM#WS",7Q,4"7CB5W&gt;%7Z!*FL9&amp;NA#1[41C_.+ADQ;-&lt;&amp;GL"E"7PZ]O.N\#%#1WP:$_K\FVD;`OX&amp;]W&gt;;]?7?@HT`06=PG@8G:0\`O]T*BU_P6T,`[0]V\9`U&lt;@LW\@2X`/P[ZD^`9'(.`=^!(&lt;^*&gt;EV**"?75N6_X*(G3*XG3*XG3"XG1"XG1"XG1/\G4/\G4/\G4'\G2'\G2'\G2NZV=Z#)8/7=F74R:+'G;.%A'1V(SEHA34_**0(R6YEE]C3@R*"['+0%EHM34?")0UZ2Y%E`C34S*BV:.EGUHRZ.Y;+`!%XA#4_!*0#SJQ"-!AM7#RE%4'!I/"B]#4_!*0(R5Y!E]A3@Q""Y/+`!%HM!4?!)05^J:C;::&gt;X)]N*(D=4S/R`%Y(FL,]4A?R_.Y(!`,S@%Y(A@B,/AUBS"HED0!_?*Y(!^P=DS/R`%Y(M@$I8;&amp;P*W:6&lt;0OZ(A-D_%R0)&lt;(]."#BM@Q'"\$9XBI+].D?!S0Y4%],#8$9XA-DQ%R&amp;G6Z'=W-C=9A)T!]`,7\R&gt;J6CC;RNN?`ZP6'6&gt;W!KBN,&gt;=/I&lt;A46"6:&gt;/.5&amp;5:VIV1F5H2D6$V&lt;^%"61N&lt;#KI7KA,LS?K9E;K9%[5(NK2`65NU\^RQ-PFYP/Z\/G;&gt;)YDBK'19@$1@P^8LP&gt;4HX@K_O[Z[@64`&lt;L&gt;P@U8,LH]X1[(=@_V`%U`?H'94T_@DA&gt;V`QD[`J=_B_?D@KG:@/9ZRQ^!GK?T=1!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">2.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Public" Type="Folder">
